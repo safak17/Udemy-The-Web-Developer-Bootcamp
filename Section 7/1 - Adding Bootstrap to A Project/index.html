@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Adding Bootstrap to a Project</title>
+
+    <!-- <link rel="stylesheet" href="css/bootstrap.css"> -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <!-- Bootstrap items can be overridden -->
+    <style type="text/css">
+        .btn-danger{
+            background: orange;
+        }
+    </style>
+
+</head>
+<body>
+    <h1>Bootstrap Basics</h1>
+
+    <button class="btn btn-danger btn-xs">DANGER</button>
+    <button class="btn btn-success btn-xs active">ACTIVE</button>
+    <button class="btn btn-success btn-xs" disabled="disabled">DISABLED</button>
+
+    <a href="http://www.getbootstrap.com" class="btn btn-info btn-lg">Bootstrap Docs</a>
+
+</body>
+</html>
