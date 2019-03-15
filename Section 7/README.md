@@ -4,11 +4,17 @@
 - Objective 3: Use common Bootstrap components like navs and buttons
 - Objective 4: Build a layout using the Bootstrap grid system
 
+
 ## 0 - What is Bootstrap
+
+
 [Bootstrap](https://getbootstrap.com/) is the most popular HTML, CSS and JS framework for developing responsive, mobile first projects on the web. <br>
 [To explore what has been done with Bootstrap.](https://expo.getbootstrap.com/)
 
+
 ## 1 - Adding Bootstrap to a Project
+
+
 ![1 - Bootstrap Basics](./Photos/1.png)
 - **Either download** and add **"bootstrap.css"** to your html file <br>
 - **Or** visit the [bootstrapcdn.com](https://www.bootstrapcdn.com/) to **get the below link** 
@@ -17,7 +23,10 @@
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 ```
 
+
 ## 2 - Forms and Inputs
+
+
 ![2 - Forms and Inputs](./Photos/2.png)
 > [jumbotron](https://getbootstrap.com/docs/4.3/components/jumbotron/): A lightweight, flexible component that can optionally extend the entire viewport to showcase key content on your site.
 
@@ -25,7 +34,10 @@ If we just put stuff inside of div class container it gives it some spacing some
 
 > [forms](https://getbootstrap.com/docs/4.3/components/forms/): **form-group**(add some nice spacing) and **form-control**(makes the inputs bootstrap refined) are responsible for making things look good. And **container** for quick bit of spacing on the app.
 
+
 ## 3 - Nav Bars
+
+
 ![3 - Nav Bars](./Photos/3.png)
 [bootstrap 3.3.5: CSS](https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css)
 
@@ -47,7 +59,10 @@ If we just put stuff inside of div class container it gives it some spacing some
 
 [default navbar](https://getbootstrap.com/docs/3.3/components/#navbar)
 
+
 ## 4 - The Grid System
+
+
 ![4 - The Grid System](./Photos/4.png)
 > Bootstrap includes a responsive, mobile first fluid grid system that appropriately scales up to 12 columns as the device or viewport size increases.
 
@@ -65,11 +80,17 @@ Inside each row, we have 12 units to pick from.
     </div>
 ```
 
+
 ## 5 - Grid System Pt. 2
+
+
 ![5 - The Grid System Pt. 2](./Photos/5.png)
 [For large, medium and small devices](https://getbootstrap.com/docs/4.0/layout/grid/#grid-options)
 
+
 ## 6 - Bootstrap Image Gallery Pt. 1
+
+
 ![6 - Bootstrap Image Gallery Pt. 1](./Photos/6.png)
 [Glyphicons](https://www.glyphicons.com/sets/basic/)
 
@@ -78,7 +99,10 @@ Inside each row, we have 12 units to pick from.
 <span class="glyphicon glyphicon-picture" aria-hidden="true"></span>
 ```
 
+
 ## 7 - Bootstrap Image Gallery Pt. 2
+
+
 ![7 - Bootstrap Image Gallery Pt. 2](./Photos/7.png)
 - Free images library: [unsplash](https://unsplash.com/)
 - **navbar-inverse** to change color and **navbar-fixed-top** to fix the navigation bar to top.
@@ -108,7 +132,10 @@ Inside each row, we have 12 units to pick from.
 <div class="thumbnail"></div>
 ```
 
+
 ## 8 - Creating a Startup Landing Page Code Along
+
+
 ![8 - Creating a Startup Landing Page Code Along](./Photos/8.png)
 [Google Fonts - Lato](https://fonts.google.com/specimen/Lato)
 

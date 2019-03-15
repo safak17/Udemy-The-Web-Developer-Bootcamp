@@ -2,5 +2,5 @@
 
 This repo contains examples of each section of the above course.
 
-
+- Section 7 : Bootstrap
 - Section 10: Introduction to JavaScript
