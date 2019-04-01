@@ -19,6 +19,7 @@
 ![2 - Getting Started With Bootstrap 4](./Photos/2.png)
 
 ## 3 - Bootstrap 4 Colors and Backgrounds
+
 See [colors](https://getbootstrap.com/docs/4.3/utilities/colors/) page of Bootstrap 4.
 
 ![3 - Bootstrap 4 Colors and Backgrounds](./Photos/3.png)
@@ -70,6 +71,7 @@ For more information, please visit [borders](https://getbootstrap.com/docs/4.3/u
 ![5 - New Fancy Spacing Utilities](./Photos/5.png)
 
 ## 6 - [Responsive Breakpoints](https://getbootstrap.com/docs/4.3/layout/overview/#responsive-breakpoints)
+
 ```
 <button class="btn btn-warning p-sm-5 p-md-0 p-lg-5 p-xl-0"> BUTTON </button>
 ```
@@ -81,11 +83,13 @@ For more information, please visit [borders](https://getbootstrap.com/docs/4.3/u
 ![6 - Responsive Breakpoints](./Photos/6.png)
 
 ## 7 - Bootstrap 4 [Navbars](https://getbootstrap.com/docs/4.3/components/navbar/)
+
 ```
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 If you want your navbar to expand/collapse "navbar-expand-lg" is required.
 You can still make a simple, static navbar without it.
 ```
+
 ![7 - Bootstrap 4 Navbars](./Photos/7.png)
 
 ## 8 - The New [Display](https://getbootstrap.com/docs/4.3/utilities/display/) Utility
