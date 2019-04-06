@@ -48,7 +48,7 @@ function sing(){
 }
 
 setInterval(sing, 1000);	//	returns 2
-clearInterval(2);			//	use "2" to stop setInterval
+clearInterval(2);		//	use "2" to stop setInterval
 ```
 
 ## Anonymous Function 
