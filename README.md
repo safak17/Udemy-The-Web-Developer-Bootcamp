@@ -10,3 +10,4 @@ This repo contains examples of each section of the above course.
 - Section 12: Javascript Basics - Functions
 - Section 13: Javacsript Basics - Arrays
 - Section 14: Introduction to Objects
+- Section 15: DOM Manipulation
