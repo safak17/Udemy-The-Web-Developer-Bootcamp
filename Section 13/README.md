@@ -2,7 +2,7 @@
 
 ## [Developer Mozilla - Javascript Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
-```
+```javascript
 var colors = ["red", "green", "white"];
 
 colors.indexOf("red");				//	returns 0
@@ -24,7 +24,7 @@ var copyColors = colors.slice();    //	copyColors have all items of colors.
 
 **Chrome browser** behaves a little strangely when using alert, prompt, or confirm functions. It **doesn't display the HTML on the page until after the popup has been closed.** This is problematic since our HTML contains instructions for the user to be able to use the app we're building. You can avoid this by wrapping your JS code in the following setTimeout function:
 
-```
+```javascript
 var todos = [];
 
 window.setTimeout(function(){
@@ -47,7 +47,7 @@ window.setTimeout(function(){
 This gives the HTML a half second to load before running the JS, which circumvents the issue of the prompt function blocking the HTML from loading right away.
 
 ## [ForEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
-```
+```javascript
 Javascript provides an easy built-in way of iterating over an array: ForEach
 
 arr.forEach(someFunction)
@@ -62,7 +62,7 @@ colors.forEach(function(color){
 ## 2 - ToDo List Part 2
 ![ToDo List 2](./Photos/todo_list_2.gif)
 
-```
+```javascript
 .forEach takes a callback function, that callback function is expected to have at least 1, but up to 3, arguments.
 
 The arguments are in a specific order:
@@ -72,7 +72,7 @@ The arguments are in a specific order:
 ```
 
 ## 3 - myForEach()
-```
+```javascript
 Array.prototype.myForEach = function(func){
 	for(var i=0; i<this.length; i++){
 		func(this[i]);
