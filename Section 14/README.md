@@ -10,21 +10,21 @@ var person = {
 	city: "LA"
 }
 
-console.log( person["name] );		// bracket notation
-console.log( person.name ) ;		//	dot notation
+console.log( person["name] ); // bracket notation
+console.log( person.name ) ;  // dot notation
 
 //	Cannot use dot notation if the property starts with a number.
-person.1age							//	INVALID
-person["1age"]						//	VALID
+person.1age       // INVALID
+person["1age"]    // VALID
 
 //	Cannot use dot notation for property names with spaces
-person.1age space					//	INVALID
-person.["1age space"]				//	VALID
+person.1age space      // INVALID
+person.["1age space"]  // VALID
 
 //	You can lookup using a variable with bracket notation
 var str = "name";
-person.str							//	doesn't look for name
-person[str]							//	looks for "name"
+person.str    // doesn't look for name
+person[str]   // looks for "name"
 ```
 
 ## [UNDERSCORE.JS](https://underscorejs.org/)
