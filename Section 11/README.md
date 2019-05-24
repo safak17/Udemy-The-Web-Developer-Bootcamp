@@ -27,7 +27,7 @@ Values that aren't actually *true* or *false*, are still inherently "truthy" or 
 
 2. Conditionals
 
-```
+```javascript
 var age = Number(prompt("What is your age?"));
 if(age % Math.sqrt(age) === 0) {
   console.log("Your age is a perfect square!");
@@ -38,7 +38,7 @@ DRY : Don't Repeat Yourself
 
 3. Annoy-O-Matic Code
 
-```
+```javascript
 var answer = prompt("Are we there yet?");
 while(answer.indexOf("yes") !== -1){
   var answer = prompt("Are we there yet?");
@@ -48,7 +48,7 @@ alert("YAY ! We made it.");
 
 4. Intro to For Loops
 
-```
+```javascript
 for(init; condition; step){
   // run some code...
 }
