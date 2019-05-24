@@ -19,7 +19,7 @@
 - **Either download** and add **"bootstrap.css"** to your html file <br>
 - **Or** visit the [bootstrapcdn.com](https://www.bootstrapcdn.com/) to **get the below link** 
 
-```
+```html
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 ```
 
@@ -35,25 +35,25 @@ If we just put stuff inside of div class container it gives it some spacing some
 > [forms](https://getbootstrap.com/docs/4.3/components/forms/): **form-group**(add some nice spacing) and **form-control**(makes the inputs bootstrap refined) are responsible for making things look good. And **container** for quick bit of spacing on the app.
 
 
-## 3 - Nav Bars
+## 3 - Nav Bars
 
 
 ![3 - Nav Bars](./Photos/3.png)
 [bootstrap 3.3.5: CSS](https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css)
 
-```
+```html
 <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 ```
 
 [bootstrap 3.3.5: JAVACSRIPT](https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js)
 
-```
+```html
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 ```
 
 [bootstrap 3.3.5: JQUERY](https://code.jquery.com/jquery-2.1.4.js)
 
-```
+```html
 <script src="https://code.jquery.com/jquery-2.1.4.js"></script>
 ```
 
@@ -70,7 +70,7 @@ Anytime we use Bootstrap grid, it needs to be inside of a container.
 
 Inside each row, we have 12 units to pick from.
 
-```
+```html
     <div class="container">
         <div class="row">
             <div class="col-lg-2 pink">LG - 2</div>
@@ -88,13 +88,13 @@ Inside each row, we have 12 units to pick from.
 [For large, medium and small devices](https://getbootstrap.com/docs/4.0/layout/grid/#grid-options)
 
 
-## 6 - Bootstrap Image Gallery Pt. 1
+## 6 - Bootstrap Image Gallery Pt. 1
 
 
 ![6 - Bootstrap Image Gallery Pt. 1](./Photos/6.png)
 [Glyphicons](https://www.glyphicons.com/sets/basic/)
 
-```
+```html
 <span class="glyphicon glyphicon-camera" aria-hidden="true"></span>
 <span class="glyphicon glyphicon-picture" aria-hidden="true"></span>
 ```
@@ -107,20 +107,20 @@ Inside each row, we have 12 units to pick from.
 - Free images library: [unsplash](https://unsplash.com/)
 - **navbar-inverse** to change color and **navbar-fixed-top** to fix the navigation bar to top.
 
-```
+```html
 <nav class="navbar navbar-inverse navbar-fixed-top">
 ```
 - Grid system **col-lg-4**
 - **Jumbotron**
 
-```
+```html
 <div class="jumbotron"></div>
 ```
 
 - Bootstrap icons: [glyphicons](https://www.glyphicons.com/sets/basic/)
 - The most popular free icons library: [fontawesome](https://fontawesome.com/?from=io)
 
-```
+```html
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
 <i class="fas fa-dove"></i>
@@ -128,7 +128,7 @@ Inside each row, we have 12 units to pick from.
 
 - **Thumbnail** to constaint an image into grid and add some spacing around it.
 
-```
+```html
 <div class="thumbnail"></div>
 ```
 
@@ -139,7 +139,7 @@ Inside each row, we have 12 units to pick from.
 ![8 - Creating a Startup Landing Page Code Along](./Photos/8.png)
 [Google Fonts - Lato](https://fonts.google.com/specimen/Lato)
 
-```
+```html
 <i class="fas fa-user-plus"></i>
 <i class="fas fa-user"></i>
 <i class="fas fa-paw"></i>
