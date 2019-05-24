@@ -18,7 +18,7 @@
 
 ![2 - Getting Started With Bootstrap 4](./Photos/2.png)
 
-## 3 - Bootstrap 4 Colors and Backgrounds
+## 3 - Bootstrap 4 Colors and Backgrounds
 
 See [colors](https://getbootstrap.com/docs/4.3/utilities/colors/) page of Bootstrap 4.
 
@@ -32,34 +32,34 @@ See [colors](https://getbootstrap.com/docs/4.3/utilities/colors/) page of Bootst
 
 ## 5 - New Fancy [Spacing](https://getbootstrap.com/docs/4.3/utilities/spacing/) Utilities
 
-```
+```html
 <h5 class="border border-danger rounded-top"> H5 </h5>
 "border" for having border around the heading, 
 "border-danger" specifies the color(red) of the border, 
 "rounded-top" rounds the top corners ONLY.
 ```
 
-```
+```html
 <h5 class="border-top border-info"> H5 </h5>
 "border-top" for having border ONLY the top of the heading,
 "border-info" specifies the color of the border.
 ```
 
-```
+```html
 <h5 class="border border-left-0 border-warning"> H5 </h5>
 "border" for having border around the heading,
 "border-left-0" removes the left border line of the heading,
 "border-warning" specifies the color(YELLOW) of the border.
 ```
 
-```
+```html
 <button class="btn btn-info px-5"> PX-5 </button>
 "btn" for bootstrap button,
 "btn-info" specifies the color,
 "px-5" padding for both sides(left and right) 5 rem
 ```
 
-```
+```html
 <p class="bg-success text-white m-0"> M-0 </p>
 "bg-success" specifies the color,
 "text-white" specifies the text color,
@@ -72,19 +72,19 @@ For more information, please visit [borders](https://getbootstrap.com/docs/4.3/u
 
 ## 6 - [Responsive Breakpoints](https://getbootstrap.com/docs/4.3/layout/overview/#responsive-breakpoints)
 
-```
+```html
 <button class="btn btn-warning p-sm-5 p-md-0 p-lg-5 p-xl-0"> BUTTON </button>
 ```
 
-```
+```html
 <button class="btn btn-primary p-4 mx-0 mx-sm-2 mx-md-3 mx-lg-4"></button>
 ```
 
 ![6 - Responsive Breakpoints](./Photos/6.png)
 
-## 7 - Bootstrap 4 [Navbars](https://getbootstrap.com/docs/4.3/components/navbar/)
+## 7 - Bootstrap 4 [Navbars](https://getbootstrap.com/docs/4.3/components/navbar/)
 
-```
+```html
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 If you want your navbar to expand/collapse "navbar-expand-lg" is required.
 You can still make a simple, static navbar without it.
