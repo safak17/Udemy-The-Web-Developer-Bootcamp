@@ -2,9 +2,9 @@
 
 This repo contains examples of each section of the above course.
 
-- Section 7 : Bootstrap
-- Section 8 : Bootstrap 4!
-- Section 9 : Bootstrap 4 - Flexbox and Layout
+- Section 07: Bootstrap
+- Section 08: Bootstrap 4!
+- Section 09: Bootstrap 4 - Flexbox and Layout
 - Section 10: Introduction to JavaScript
 - Section 11: Javascript Basics - Control Flow
 - Section 12: Javascript Basics - Functions
