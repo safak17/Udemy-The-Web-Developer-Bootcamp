@@ -1,4 +1,4 @@
-# Section 05: Introduction to CSS
+# Section 05: Introduction to CSS
 
 [Reference: csszengarden.com](http://csszengarden.com/)
 
