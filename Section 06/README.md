@@ -18,7 +18,7 @@ p{
 }
 ```
 
-## 2 - Creating A Tic Tac Toe Board
+## 2 - Creating A Tic Tac Toe Board
 
 ![](./Photos/2.png)
 
