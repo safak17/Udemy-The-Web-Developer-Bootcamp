@@ -1,10 +1,10 @@
 # Section 03: Introduction to HTML
 
-## [1 - HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+## [1 - HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 ![](./Photos/1.png)
 
-## 2 - Divs And Spans
+## 2 - Divs And Spans
 
 Source code:
 
@@ -14,6 +14,6 @@ Output code:
 
 ![](./Photos/2-output.png)
 
-## [3 - HTML Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
+## [3 - HTML Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 
 ![](./Photos/3.png)
