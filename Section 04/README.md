@@ -47,7 +47,7 @@ If someone is blind, their screen reader software will use <label> tags to know 
 </form>
 ```
 
-## 1 - Form Exercise
+## 1 - Form Exercise
 
 ![](./Photos/1.gif)
 
