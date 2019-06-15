@@ -5,6 +5,7 @@ This repo contains examples of each section of the above course.
 - Section 03: Introduction to HTML
 - Section 04: Intermediate HTML
 - Section 05: Introduction to CSS
+- Section 06: Intermediate CSS
 - Section 07: Bootstrap
 - Section 08: Bootstrap 4!
 - Section 09: Bootstrap 4 - Flexbox and Layout
