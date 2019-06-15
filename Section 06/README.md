@@ -12,9 +12,9 @@
 
 ```css
 p{
-  margin: 0 auto 0 auto;	//	Paragraph will be centered.
-  margin: 0 auto;					//	Same as above.
-  margin: auto;						//	Same as above.
+  margin: 0 auto 0 auto;  // Paragraph will be centered.
+  margin: 0 auto;         // Same as above.
+  margin: auto;           // Same as above.
 }
 ```
 
