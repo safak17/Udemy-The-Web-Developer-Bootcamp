@@ -18,5 +18,6 @@ This repo contains examples of each section of the above course.
 - Section 16: Advanced DOM Manipulation
 - Section 17: Color Game Project
 - Section 18: Intro to jQuery
+- Section 19: Advanced jQuery
 - Section 23: The Command Line
 - Section 24: Introduction to Node
