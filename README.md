@@ -16,5 +16,6 @@ This repo contains examples of each section of the above course.
 - Section 14: Introduction to Objects
 - Section 15: DOM Manipulation
 - Section 16: Advanced DOM Manipulation
+- Section 17: 
 - Section 23: The Command Line
 - Section 24: Introduction to Node
