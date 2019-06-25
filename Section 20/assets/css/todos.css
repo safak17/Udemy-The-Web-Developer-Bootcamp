@@ -1,0 +1,81 @@
+body{
+    font-family: Roboto;
+    background: #2980B9;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+h1{
+    background: #2980B9;
+    color: white;
+    margin: 0;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: normal;
+}
+
+.fa-plus{
+    float: right;
+}
+
+input{
+    font-size: 18px;
+    color: #2980B9;
+    background-color: #F7F7F7;
+    width: 100%;
+    padding: 13px 13px 13px 20px;
+    box-sizing: border-box;
+    border: 3px solid rgba(0, 0, 0, 0)
+}
+
+input:focus{
+    background: #FFF;
+    border: 3px solid #2980B9;
+    outline: none;
+}
+
+ul{
+    list-style: none;
+    padding-inline-start: 0px;
+}
+
+li{
+    background: #FFF;
+    height: 40px;
+    line-height: 40px;
+    color: #666;
+}
+
+li:nth-child(2n){
+    background: #F7F7F7;
+}
+
+span{
+    background: #E74C3C;
+    height: 40px;
+    margin-right: 20px;
+    color: white;
+    text-align: center;
+    width: 0px;
+    display: inline-block;
+    transition: 0.2s linear;
+    opacity: 0;
+}
+
+li:hover span{
+    width: 40px;
+    opacity: 1.0;
+}
+
+#container{
+    width: 360px;
+    margin: 100px auto;
+    background: #F7F7F7;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+}
+
+.completed{
+    color: gray;
+    text-decoration: line-through;
+}
