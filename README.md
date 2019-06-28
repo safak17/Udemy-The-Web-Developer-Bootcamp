@@ -20,5 +20,6 @@ This repo contains examples of each section of the above course.
 - Section 18: Intro to jQuery
 - Section 19: Advanced jQuery
 - Section 20: Todo List Projects
+- Section 21: Patatap Clone
 - Section 23: The Command Line
 - Section 24: Introduction to Node
