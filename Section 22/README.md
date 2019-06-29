@@ -22,4 +22,4 @@ MEN = MongoDB, Express, Node (this is what we're using in this course)
 
 ### 2. [Postman](https://www.getpostman.com/)
 
-### 3. [Goorme IDE](https://www.youtube.com/watch?v=iJtOoeM_fS8)
+### 3. [Goorm IDE](https://www.youtube.com/watch?v=iJtOoeM_fS8)
