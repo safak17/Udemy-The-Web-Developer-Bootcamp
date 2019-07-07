@@ -25,3 +25,4 @@ This repo contains examples of each section of the above course.
 - Section 23: The Command Line
 - Section 24: Introduction to Node
 - Section 25: Server Side Frameworks
+- Section 26: Intermediate Express
